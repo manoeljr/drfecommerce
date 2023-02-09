@@ -8,6 +8,9 @@ links.txt
 # C extensions
 *.so
 
+# drf_spectacular
+schema.yml
+
 # Distribution / packaging
 .Python
 build/
